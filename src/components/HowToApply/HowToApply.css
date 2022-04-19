@@ -1,0 +1,37 @@
+.about-box{
+    padding: 20px;
+    border-radius: 15px;
+    text-align: start;
+}
+
+
+.Apply-icon{
+    padding: 0px 8px 8px 0px;
+    color: black;
+    font-size: 25px;
+    border-radius: 7px;
+}
+
+
+@media only screen and (max-width: 413px){
+    .Apply-btn{
+        font-size: 12px;
+    }
+
+
+    .about-header{
+    
+    }
+    
+}
+@media only screen and (max-width: 374px){
+    .Apply-btn{
+        /* font-size: 8px; */
+    }
+
+
+    .about-header{
+    
+    }
+    
+}
